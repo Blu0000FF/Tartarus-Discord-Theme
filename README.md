@@ -8,7 +8,7 @@
 
 ## Installation
 
-### [Vencord][Vencord]
+### [Vencord]
 <details><summary>Click to expand</summary>
 
 #### Local
