@@ -19,7 +19,7 @@
 3. Click `Load missing Themes` and toggle on the theme card.
 #### Online
 1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
-    - `https://saltssaumure.github.io/synthesis-discord-theme/Synthesis.theme.css](https://raw.githubusercontent.com/Blu0000FF/Tartarus-Discord-Theme/main/Tartarus.theme.css`
+    - `https://raw.githubusercontent.com/Blu0000FF/Tartarus-Discord-Theme/main/Tartarus.theme.css`
 </details>
 
 ## Customisation
