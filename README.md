@@ -26,7 +26,7 @@
 ## Customisation
 | Variable name                           | Description                | Valid values                                                              | Default value                                                                          |
 | --------------------------------------- | -------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| `--synth-background-image`              | Background image           | Image link encased in `url()` or `none`. [Suggested images][backgrounds]. | `url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.avif)` |
+| `--synth-background-image`              | Background image           | Image link encased in `url()` or `none`. [Suggested images][backgrounds]. | `url(https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1809700/fb1b494e324519bfca339c2d7edd20b820efbf1c.jpg)` |
 | `--synth-backdrop-opacity`              | Backdrop opacity           | A number `0`-`1`.                                                         | `0.3`                                                                                  |
 | `--synth-overlay-color`                 | Overlay tint colour        | Space-separated [`RGB`][css-color] value.                                 | `255 165 0  `                                                                          |
 | `--synth-crt-light`, `--synth-crt-dark` | CRT scanline colour        | Space-separated [`RGB`][css-color] value.                                 | `255 255 255`, `0   0   0`                                                             |

@@ -1,36 +1,29 @@
 /**
- * @name Synthesis
- * @author Saltssaumure
- * @authorLink https://github.com/Saltssaumure
- * @description A vibrant neon synthwave theme.
+ * @name Tartarus
+ * @author 青二rph
+ * @authorLink https://github.com/Blu0000FF
+ * @description A Persona 3 Themed Discord Theme, based on P3esis by Saltssaumure 
  * @license AGPL-3.0-or-later
  * @version 1.8
- * @invite uy8nKQVatp
- * @source https://github.com/Saltssaumure/synthesis-discord-theme
- * @donate https://ko-fi.com/saltssaumure
 */
 
-@import url("https://saltssaumure.github.io/synthesis-discord-theme/synth.min.css");
+@import url("https://raw.githubusercontent.com/Blu0000FF/Tartarus-Discord-Theme/main/Tartarus.min.css");
 
-/* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
-    --synth-background-image:   url(https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1809700/fb1b494e324519bfca339c2d7edd20b820efbf1c.jpg);
-    --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:      255 165 0   ;
-    --synth-crt-light:          255 255 255 ;
-    --synth-crt-dark:           0   0   0   ;
-    --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --P3-background-image:   url(https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1809700/fb1b494e324519bfca339c2d7edd20b820efbf1c.jpg);
+    --P3-backdrop-opacity:   0.3         ;
+    --P3-overlay-color:      255 165 0   ;
 
-    --synth-color-background:   20  6   36  ;
-    --synth-color-foreground:   255 165 0   ;
-    --synth-color-shadow:       0   0   128 ;
-    --synth-color-button:       84  63  251 ;
-    --synth-color-pop:          206 63  251 ;
-    --synth-color-blurple:      88  101 242 ;
-    --synth-color-text:         255 255 255 ;
+    --P3-color-background:   20  6   36  ;
+    --P3-color-foreground:   255 165 0   ;
+    --P3-color-shadow:       0   0   128 ;
+    --P3-color-button:       84  63  251 ;
+    --P3-color-pop:          206 63  251 ;
+    --P3-color-blurple:      88  101 242 ;
+    --P3-color-text:         255 255 255 ;
 
-    --synth-color-red:          243 67  131 ;
-    --synth-color-yellow:       255 165 0   ;
-    --synth-color-green:        52  172 140 ;
-    --synth-color-twitch:       89  54  149 ;
+    --P3-color-red:          243 67  131 ;
+    --P3-color-yellow:       255 165 0   ;
+    --P3-color-green:        52  172 140 ;
+    --P3-color-twitch:       89  54  149 ;
 }
