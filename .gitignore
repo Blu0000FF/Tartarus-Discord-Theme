@@ -1,7 +1,0 @@
-# Packages
-/node_modules
-
-# Build
-/dist
-/bundle
-/src
