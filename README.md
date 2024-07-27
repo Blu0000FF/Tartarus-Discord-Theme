@@ -13,14 +13,13 @@
 
 #### Local
 1. Download `Synthesis.theme.css`:
-    - [BetterDiscord store][release-bd]
-    - [GitHub][release-css-gh]
+
 2. Place the file in the themes folder:
     - `Settings` > `Vencord` > `Themes` > `Local Themes` > `Open Themes Folder`
 3. Click `Load missing Themes` and toggle on the theme card.
 #### Online
 1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
-    - `https://saltssaumure.github.io/synthesis-discord-theme/Synthesis.theme.css`
+    - `https://saltssaumure.github.io/synthesis-discord-theme/Synthesis.theme.css](https://raw.githubusercontent.com/Blu0000FF/Tartarus-Discord-Theme/main/Tartarus.theme.css`
 </details>
 
 ## Customisation
